@@ -6,6 +6,7 @@ package ejercicio;
  */
 public class SumarTabla {
 
+	//comentario en nueva rama
 	
 	private int[] tabla;
 
