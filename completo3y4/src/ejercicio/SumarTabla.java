@@ -1,5 +1,9 @@
 package ejercicio;
 
+/**
+ * @author MCRobles
+ *
+ */
 public class SumarTabla {
 
 	
